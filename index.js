@@ -187,6 +187,6 @@ function update(time = 0){
   draw();
   requestAnimationFrame(update);
 }
-/*https://www.youtube.com/watch?v=FO3WwYYzClA&list=PLkC56g8fboI3nNZQS2mb6kCqK9yS0XgD9&ab_channel=AsmrProg*/
+
 
   
